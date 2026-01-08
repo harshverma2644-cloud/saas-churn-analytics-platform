@@ -47,7 +47,7 @@ SaaS-Customer-Churn-Prediction/
 """
 SaaS Customer Churn Prediction & Retention Strategy
 Methodology, KPIs, and Business Insights (Python Format)
-Author: Madhav / Harsh Verma
+Author: Harsh Verma
 """
 
 # =========================
