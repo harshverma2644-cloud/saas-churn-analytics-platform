@@ -204,3 +204,45 @@ if __name__ == "__main__":
 | CAC                | Measures acquisition efficiency |
 | Engagement Metrics | Predict churn                   |
 | NPS & CSAT         | Measure satisfaction            |
+DATA SET:
+
+| Customer ID | Plan       | Monthly Revenue | Tenure (Months) | Login Frequency | Support Tickets | Churn |
+| ----------- | ---------- | --------------- | --------------- | --------------- | --------------- | ----- |
+| 1001        | Basic      | 20              | 2               | 3               | 4               | 1     |
+| 1002        | Pro        | 50              | 12              | 15              | 1               | 0     |
+| 1003        | Pro        | 50              | 8               | 10              | 2               | 0     |
+| 1004        | Enterprise | 120             | 24              | 25              | 0               | 0     |
+| 1005        | Basic      | 20              | 3               | 2               | 5               | 1     |
+| 1006        | Pro        | 50              | 10              | 12              | 1               | 0     |
+| 1007        | Basic      | 20              | 1               | 1               | 6               | 1     |
+| 1008        | Enterprise | 120             | 36              | 30              | 0               | 0     |
+| 1009        | Pro        | 50              | 15              | 18              | 1               | 0     |
+| 1010        | Basic      | 20              | 4               | 4               | 4               | 1     |
+| 1011        | Pro        | 50              | 18              | 20              | 1               | 0     |
+| 1012        | Enterprise | 120             | 30              | 28              | 0               | 0     |
+| 1013        | Basic      | 20              | 5               | 6               | 3               | 1     |
+| 1014        | Pro        | 50              | 14              | 14              | 2               | 0     |
+| 1015        | Basic      | 20              | 6               | 5               | 3               | 1     |
+| 1016        | Enterprise | 120             |                 |                 |                 |       |
+
+
+GRAPHICAL REPRESENTATION
+## 📊 Data Visualizations
+
+### Customer Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Revenue by Subscription Plan
+![Revenue by Plan](images/revenue_by_plan.png)
+
+### Login Frequency vs Churn
+![Login vs Churn](images/login_vs_churn.png)
+
+### Support Tickets vs Churn
+![Support vs Churn](images/support_vs_churn.png)
+***********************************************
+
+
+
+
+
