@@ -230,16 +230,20 @@ GRAPHICAL REPRESENTATION
 ## 📊 Data Visualizations
 
 ### Customer Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![customer churn distribution](<img width="562" height="450" alt="image" src="https://github.com/user-attachments/assets/db45c30c-9bbe-45ac-9024-304612c79e16" />)
+
 
 ### Revenue by Subscription Plan
-![Revenue by Plan](images/revenue_by_plan.png)
+![Revenue by Plan](<img width="571" height="512" alt="image" src="https://github.com/user-attachments/assets/ef79a11c-fb1e-4eeb-8265-4825bc77a66d" />)
+
 
 ### Login Frequency vs Churn
-![Login vs Churn](images/login_vs_churn.png)
+![Login vs Churn](<img width="576" height="450" alt="image" src="https://github.com/user-attachments/assets/22364a3e-7e23-4e04-ae05-dc609b62a0d4" />
+)
 
 ### Support Tickets vs Churn
-![Support vs Churn](images/support_vs_churn.png)
+![Support vs Churn](<img width="567" height="450" alt="image" src="https://github.com/user-attachments/assets/e23e1dac-629d-4127-977b-9c3861735383" />
+)
 ***********************************************
 
 
