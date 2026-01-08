@@ -230,22 +230,19 @@ GRAPHICAL REPRESENTATION
 ## 📊 Data Visualizations
 
 ### Customer Churn Distribution
-![customer churn distribution](<img width="562" height="450" alt="image" src="https://github.com/user-attachments/assets/db45c30c-9bbe-45ac-9024-304612c79e16" />)
+![Customer Churn Distribution](visuals/churn_distribution.png)
 
-
-### Revenue by Subscription Plan
-![Revenue by Plan](<img width="571" height="512" alt="image" src="https://github.com/user-attachments/assets/ef79a11c-fb1e-4eeb-8265-4825bc77a66d" />)
-
+### Monthly Recurring Revenue (MRR) Trend
+![MRR Trend](visuals/mrr_trend.png)
 
 ### Login Frequency vs Churn
-![Login vs Churn](<img width="576" height="450" alt="image" src="https://github.com/user-attachments/assets/22364a3e-7e23-4e04-ae05-dc609b62a0d4" />
-)
+![Login vs Churn](visuals/engagement_vs_churn.png)
+
+### Customer Lifetime Value (CLTV) Distribution
+![CLTV Distribution](visuals/cltv_distribution.png)
 
 ### Support Tickets vs Churn
-![Support vs Churn](<img width="567" height="450" alt="image" src="https://github.com/user-attachments/assets/e23e1dac-629d-4127-977b-9c3861735383" />
-)
-***********************************************
-
+![Support Tickets vs Churn](visuals/support_tickets_vs_churn.png)
 
 
 
