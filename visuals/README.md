@@ -1,5 +1,1 @@
-churn_distribution.png
-mrr_trend.png
-engagement_vs_churn.png
-cltv_distribution.png
-support_tickets_vs_churn.png
+
