@@ -1,11 +1,15 @@
-gr# saas-churn-analytics-platform
+saas-churn-analytics-platform
+
 Description
+
 End to end Saas churn analytics project using python ,SQL, visualization and machine learning to predict churn and improve customer retention.
-SaaS-Customer-Churn-Prediction/
+
+SaaS-Customer-Churn-Prediction
 │
 ├── README.md
 │
 ├── docs/
+
 │   ├── Industry_Ready_SaaS_Churn_Project.docx
 │   ├── Project_Report.pdf
 │   └── Presentation.pptx
@@ -47,12 +51,15 @@ SaaS-Customer-Churn-Prediction/
 """
 SaaS Customer Churn Prediction & Retention Strategy
 Methodology, KPIs, and Business Insights (Python Format)
+
+
 Author: Harsh Verma
 """
 
 # =========================
 # 1. IMPORT LIBRARIES
 # =========================
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -62,6 +69,7 @@ from sklearn.linear_model import LogisticRegression
 # =========================
 # 2. DATA LOADING
 # =========================
+
 def load_data(path: str) -> pd.DataFrame:
     """
     Load SaaS customer dataset
@@ -73,6 +81,7 @@ def load_data(path: str) -> pd.DataFrame:
 # =========================
 # 3. DATA CLEANING
 # =========================
+
 def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     """
     Handle missing values and duplicates
@@ -85,6 +94,7 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
 # =========================
 # 4. KPI / METRICS FUNCTIONS
 # =========================
+
 def customer_churn_rate(df: pd.DataFrame) -> float:
     """
     Churn Rate = Lost Customers / Total Customers
@@ -204,6 +214,10 @@ if __name__ == "__main__":
 | CAC                | Measures acquisition efficiency |
 | Engagement Metrics | Predict churn                   |
 | NPS & CSAT         | Measure satisfaction            |
+
+
+
+
 DATA SET:
 
 | Customer ID | Plan       | Monthly Revenue | Tenure (Months) | Login Frequency | Support Tickets | Churn |
