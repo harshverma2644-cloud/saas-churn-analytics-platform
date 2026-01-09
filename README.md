@@ -226,23 +226,6 @@ DATA SET:
 | 1016        | Enterprise | 120             |                 |                 |                 |       |
 
 
-GRAPHICAL REPRESENTATION
-## 📊 Data Visualizations
-
-### Customer Churn Distribution
-![Customer Churn Distribution](visuals/churn_distribution.png)
-
-### Monthly Recurring Revenue (MRR) Trend
-![MRR Trend](visuals/mrr_trend.png)
-
-### Login Frequency vs Churn
-![Login vs Churn](visuals/engagement_vs_churn.png)
-
-### Customer Lifetime Value (CLTV) Distribution
-![CLTV Distribution](visuals/cltv_distribution.png)
-
-### Support Tickets vs Churn
-![Support Tickets vs Churn](visuals/support_tickets_vs_churn.png)
 
 
 
