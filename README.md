@@ -225,7 +225,7 @@ DATA SET:
 | 1015        | Basic      | 20              | 6               | 5               | 3               | 1     |
 | 1016        | Enterprise | 120             |                 |                 |                 |       |
 
-Graphical reprentation
+Graphical representation
 
 
 Customer churn distribution
