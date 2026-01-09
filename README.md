@@ -1,4 +1,4 @@
-# saas-churn-analytics-platform
+gr# saas-churn-analytics-platform
 Description
 End to end Saas churn analytics project using python ,SQL, visualization and machine learning to predict churn and improve customer retention.
 SaaS-Customer-Churn-Prediction/
@@ -225,7 +225,8 @@ DATA SET:
 | 1015        | Basic      | 20              | 6               | 5               | 3               | 1     |
 | 1016        | Enterprise | 120             |                 |                 |                 |       |
 
-
+Graphical reprentation
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/3b64e8b1-2e76-432b-8469-fec85e11dc90" />
 
 
 
