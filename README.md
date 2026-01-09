@@ -228,6 +228,7 @@ DATA SET:
 Graphical reprentation
 Customer churn distribution
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/3b64e8b1-2e76-432b-8469-fec85e11dc90" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/afac96b6-1616-43f2-814d-4b4e34bc0cc1" />
 
 
 
