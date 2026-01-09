@@ -233,6 +233,8 @@ Customer churn distribution
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/be214b88-a4d2-49e4-8e4c-87b677da1fd4" />
 
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/836df174-5cfe-42cc-aa93-01101dfd6e51" />
+
 
 
 
