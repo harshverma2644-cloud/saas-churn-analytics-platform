@@ -54,7 +54,6 @@ Methodology, KPIs, and Business Insights (Python Format)
 
 
 Author: Harsh Verma
-"""
 
 # =========================
 # 1. IMPORT LIBRARIES
