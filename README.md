@@ -226,14 +226,22 @@ DATA SET:
 | 1016        | Enterprise | 120             |                 |                 |                 |       |
 
 Graphical reprentation
+
+
 Customer churn distribution
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/3b64e8b1-2e76-432b-8469-fec85e11dc90" />
 
+MRR trend Analysis
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/afac96b6-1616-43f2-814d-4b4e34bc0cc1" />
 
+User Engagement vs churn
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/be214b88-a4d2-49e4-8e4c-87b677da1fd4" />
 
+Customer Lifetime Value Distribution
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/836df174-5cfe-42cc-aa93-01101dfd6e51" />
+
+Support Tickets vs Churn
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/96191e7a-8810-4637-93de-e96d2cb3d590" />
 
 
 
